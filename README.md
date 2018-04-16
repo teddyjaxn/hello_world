@@ -1,6 +1,6 @@
 # hello_world
-Teddy Jackson
-Alexander Ives
++Teddy Jackson
++Alexander Ives
 #4/16/18
 #lab section 2 ?
 
